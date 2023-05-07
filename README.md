@@ -1,4 +1,4 @@
-# Spimbot
+# Spimbot: a bot that ace the Arena
 CS233 @ UIUC 2023spring final project
 
 Group name: NanoRescueSquad
